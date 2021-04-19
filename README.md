@@ -1,3 +1,3 @@
-Fullstack Engineer 👨🏼‍💻 
+Fullstack Engineer 👨 💻 
 
-TypeScript, JavaScript, & Python
+TypeScript, React, & Node
