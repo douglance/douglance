@@ -1,3 +1,3 @@
-Fullstack Engineer 👨 💻 
+Senior Crypto Engineer
 
 TypeScript, React, & Node
