@@ -16,6 +16,6 @@ I'm a **Senior Full Stack Engineer** with extensive experience in building moder
 ## 📬 Get in Touch
 
 - **LinkedIn**: [linkedin.com/in/douglance](https://www.linkedin.com/in/douglance/)
-- **Twitter**: [@dwlance](https://twitter.com/dwlance)
+- **X**: [@dwlance](https://x.com/dwlance)
 
 Feel free to check out my GitHub repositories, and don't hesitate to reach out if you'd like to collaborate on a project or discuss any opportunities!
